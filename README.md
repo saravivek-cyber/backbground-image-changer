@@ -22,3 +22,4 @@ Feel free to contribute to this project by following the guidelines in the [Cont
 ## Mail
 [Gmail](domainluther1234@gmail.com)
 # outputs 
+![Output Image]((https://github.com/saravivek-cyber/marble_ai_vivek/blob/saravivek-cyber-patch-1/outputs/2.jpeg))
